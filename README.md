@@ -7,7 +7,7 @@ I am Nishikant Raut 🙋🏻‍♂️, a Developer, Cat Lover, and a first year 
 - 🔭 I’m currently working on my new project deplaoying soon on heroku
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on some cool open-source projects
-- 🤔 I’m looking for help with on my OpenCv-Play repo
+- 🤔 I’m looking for help with on my OpenCV-Play repo
 - 💬 Ask me about anything realted to open-souce and competative programming
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
