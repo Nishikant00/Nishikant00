@@ -1,16 +1,12 @@
 ## Hello there! 👋 I am Nishikant! 
 
 
-I am Nishikant Raut 🙋🏻‍♂️, a Developer, Cat Lover, and a first year student 
+I am Nishikant 🙋🏻‍♂️, a newbie Developer, Cat Lover, and a second year student 
 
 
-- 🔭 I’m currently working on my new project deplaoying soon on heroku
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on my new project in python
+- 🌱 I’m currently learning Full stack development
 - 👯 I’m looking to collaborate on some cool open-source projects
-- 🤔 I’m looking for help with on my OpenCV-Play repo
-- 💬 Ask me about anything realted to open-souce and competative programming
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My cat also, writes code with me ^_^
 
 
