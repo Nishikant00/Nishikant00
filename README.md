@@ -7,7 +7,6 @@ I am Nishikant 🙋🏻‍♂️, a newbie Developer, Cat Lover, and a second ye
 - 🔭 I’m currently working on my new project in python
 - 🌱 I’m currently learning Full stack development
 - 👯 I’m looking to collaborate on some cool open-source projects
-- ⚡ Fun fact: My cat also, writes code with me ^_^
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
